@@ -12,6 +12,8 @@ Se trabajaron 2 datasets, correspondientes al abecedario en lenguaje de señas y
 - Super Vector Machine (OTSU / CLAHE / CANNY)
 - Random Forest (CANNY)
 - Decision Trees (CANNY)
+- Modelo Deep Learning CNN (CANNY)
+- Aprendizaje No Supervisado (CANNY)
 ## Enlaces del código, video, y repositorio
 - [Drive](https://drive.google.com/drive/u/0/folders/1IKP4f_d6Kw1HlrHqJ3J77Q1HE-wu-D_A)
 - [Video](https://youtu.be/et-fapakh_I)
