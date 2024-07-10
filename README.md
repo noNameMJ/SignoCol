@@ -16,6 +16,6 @@ Se trabajaron 2 datasets, correspondientes al abecedario en lenguaje de señas y
 - Aprendizaje No Supervisado (CANNY)
 ## Enlaces del código, video, y repositorio
 - [Drive](https://drive.google.com/drive/u/0/folders/1IKP4f_d6Kw1HlrHqJ3J77Q1HE-wu-D_A)
-- [Video](https://youtu.be/et-fapakh_I)
+- [Video](https://youtu.be/F00zChaq2Ls)
 - [Presentación](https://www.canva.com/design/DAGKfpd1Lr0/oAXKgayY0k_yfs_z5aetPg/edit?utm_content=DAGKfpd1Lr0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Notebook Anexo al Repositorio](IA/Proyecto_IA_SignoCol.ipynb)
