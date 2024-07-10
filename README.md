@@ -1,5 +1,5 @@
 # **SignoCol**
-Banner- Imagen de 800 x 300
+![](Banner.png)
 ## Autores: 
 Javier Arevalo, Miguel Hernandez, Jaider Gonzales
 ## Objetivo: 
