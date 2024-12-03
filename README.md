@@ -1,21 +1,18 @@
 # **SignoCol**
 ![](Banner.png)
 ## Autores: 
-Javier Arevalo, Miguel Hernandez, Jaider Gonzales
+Javier Arevalo, Jaider Gonzales
 ## Objetivo: 
-Inteligencia Artificial para el Reconocimiento del Lenguaje de Señas Colombiano
+Inteligencia Artificial para el Reconocimiento del Lenguaje de Señas.
 ## Dataset: 
-Se trabajaron 2 datasets, correspondientes al abecedario en lenguaje de señas y algunas frases usadas en el sector hotelero.
-- [Alfabeto LSC](https://www.kaggle.com/datasets/danielrey96/colombian-sign-language-lsc-alphabet)
-- [Sector Hotelero LSC](https://www.kaggle.com/datasets/jimmyalejandro/lsc-conjunto-de-datos-sector-hotelero)
+Se trabajó 1 dataset, correspondiente al abecedario en lenguaje de señas excluyendo la letra 'Q'.
+- [Alfabeto ASL](https://huggingface.co/datasets/Marxulia/asl_sign_languages_alphabets_v03)
 ## Modelos: 
-- Super Vector Machine (OTSU / CLAHE / CANNY)
-- Random Forest (CANNY)
-- Decision Trees (CANNY)
-- Modelo Deep Learning CNN (CANNY)
-- Aprendizaje No Supervisado (CANNY)
-## Enlaces del código, video, y repositorio
-- [Drive](https://drive.google.com/drive/u/0/folders/1IKP4f_d6Kw1HlrHqJ3J77Q1HE-wu-D_A)
+- Dense Neural Network
+- Convlutional Neural Network
+- CNN (EfficientNetB0)
+- CNN (MobileNetV3 Small)
+## Enlaces del video, presentación y notebook
 - [Video](https://youtu.be/F00zChaq2Ls)
 - [Presentación](https://www.canva.com/design/DAGKfpd1Lr0/oAXKgayY0k_yfs_z5aetPg/edit?utm_content=DAGKfpd1Lr0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Notebook Anexo al Repositorio](IA/Proyecto_IA_SignoCol.ipynb)
+- [Notebook Anexo al Repositorio](IA2.ipynb)
