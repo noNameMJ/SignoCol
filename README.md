@@ -13,6 +13,6 @@ Se trabajó 1 dataset, correspondiente al abecedario en lenguaje de señas exclu
 - CNN (EfficientNetB0)
 - CNN (MobileNetV3 Small)
 ## Enlaces del video, presentación y notebook
-- [Video](https://youtu.be/F00zChaq2Ls)
-- [Presentación](https://www.canva.com/design/DAGKfpd1Lr0/oAXKgayY0k_yfs_z5aetPg/edit?utm_content=DAGKfpd1Lr0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Video]()
+- [Presentación](https://www.canva.com/design/DAGTBJBoM14/cpO-8Rf2wwn-yTNmW1aXTA/edit?utm_content=DAGTBJBoM14&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Notebook Anexo al Repositorio](IA2.ipynb)
